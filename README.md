@@ -1,0 +1,2 @@
+# hsnabwasy
+DATABASE_URL
